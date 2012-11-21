@@ -4,6 +4,6 @@ class Test {
     int i = 16;
     i = ++i+i++;
 
-    system.out.println(i);
+    System.out.println(i);
   }
 }
