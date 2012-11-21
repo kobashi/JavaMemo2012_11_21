@@ -1,3 +1,4 @@
+// GitHub側から編集
 class Test {
   static {
     int i = 16;
