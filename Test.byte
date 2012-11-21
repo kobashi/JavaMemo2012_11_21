@@ -1,0 +1,20 @@
+Compiled from "Test.java"
+class Test {
+  Test();
+    Code:
+       0: aload_0       
+       1: invokespecial #1                  // Method java/lang/Object."<init>":()V
+       4: return        
+
+  static {};
+    Code:
+       0: bipush        16
+       2: istore_0      
+       3: iinc          0, 1
+       6: iload_0       
+       7: iload_0       
+       8: iinc          0, 1
+      11: iadd          
+      12: istore_0      
+      13: return        
+}
