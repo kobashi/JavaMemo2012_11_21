@@ -3,7 +3,7 @@ class Test {
   static {
     int i = 16;
     i = ++i+i++;
-
+    System.out.println("うひゃひゃ");
     System.out.println(i);
   }
 }
