@@ -5,5 +5,6 @@ class Test {
     i = ++i+i++;
 
     System.out.println(i);
+    System.out.println("(*^^*)"); 
   }
 }
